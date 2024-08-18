@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prjaparidiya727
+- 👋 Hi, I’m Prajapati Diya
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and achine Learning Concepts.
 - 💞️ I’m looking to collaborate on ...
