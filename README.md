@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prajapati Diya
+- 👋 Hi, I’m Diya Prajapati
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and Machine Learning Concepts.
 - 📫Linkedin Id=linkedin.com/in/diya-prajapati-0857b1298
